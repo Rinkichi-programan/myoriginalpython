@@ -23,3 +23,4 @@ elif (a + 1) % 3 == b:
     print("あなたの勝ち")
 else:
     print("相手の勝ち")
+    print("弱いね")
